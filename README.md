@@ -2,7 +2,7 @@
 
 ---
 
-# siteComPython
+# Site com python
 
 ## Motivos Para eu ter criado este repositório 😁
 
